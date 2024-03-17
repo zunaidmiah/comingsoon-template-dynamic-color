@@ -1,0 +1,1 @@
+# comingsoon-template-dynamic-color
